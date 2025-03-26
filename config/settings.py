@@ -98,7 +98,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
-# import dj_database_url
+import dj_database_url
 
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
